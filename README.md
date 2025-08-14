@@ -38,9 +38,9 @@
 ---
 
 ### 📬 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%40mukeshrawat-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mukeshraw.at?igsh=MXZsNHY3enIxZDdh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mukesh%20Rawat-blue?logo=linkedin)](https://www.linkedin.com/in/mukesh-rawat-5375a8227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Medium](https://img.shields.io/badge/Medium-%40MukeshRawat-black?logo=medium)](https://medium.com/@swissmukeshrawat)
+[![Instagram](https://img.shields.io/badge/Instagram-%40mukeshrawat-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mukeshraw.at?igsh=MXZsNHY3enIxZDdh)
 
 ---
 
