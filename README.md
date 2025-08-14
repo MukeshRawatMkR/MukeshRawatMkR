@@ -41,7 +41,7 @@
 ---
 
 ### 📬 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%40rwtposts-E4405F?logo=instagram&logoColor=white)](https://instagram.com/rwtposts)
+[![Instagram](https://img.shields.io/badge/Instagram-%40rwtposts-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mukeshraw.at?igsh=MXZsNHY3enIxZDdh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mukesh%20Rawat-blue?logo=linkedin)](https://linkedin.com/in/mukesh-rawat)
 [![Medium](https://img.shields.io/badge/Medium-%40MukeshRawat-black?logo=medium)](https://medium.com/@MukeshRawat)
 
