@@ -1,6 +1,3 @@
-<!-- Banner -->
-![Mukesh Rawat Banner](https://i.imgur.com/dp7A3rT.png) <!-- Replace with your own banner -->
-
 <!-- Typing Effect -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mukesh+Rawat;Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Engineer;Fitness+and+Health+Enthusiast;Aspiring+SDE)
 
@@ -29,9 +26,9 @@
 ---
 
 ### 📊 GitHub Stats:
-![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukeshrawat&show_icons=true&theme=radical)  
+<!--  ![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukeshrawat&show_icons=true&theme=radical)-->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mukeshrawat&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshrawat&layout=compact&theme=radical)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshrawat&layout=compact&theme=radical)-->
 
 ---
 
