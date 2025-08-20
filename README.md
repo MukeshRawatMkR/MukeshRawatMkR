@@ -17,15 +17,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)⏳
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)⏳
 
 #### Back-end Stacks
 ![Node.js](https://img.shields.io/badge/Node.js-18-green?logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express)
-![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)⏳
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)⏳
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)⏳
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -33,7 +33,7 @@
 
 #### Tools
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white)⏳
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
