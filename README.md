@@ -5,7 +5,6 @@
 
 ### 👨‍💻 About Me:
 - 💼 MCA Graduate | MERN Stack Developer | Full-Stack Developer  
-- 💪 Into Calisthenics + Hypertrophy training & a healthy lifestyle  
 - 🎯 2025 Goal → Become a Software Development Engineer & Gain hands on experience on real world projects 
 - 📝 I write technical articles in my own language on Medium  
 
